@@ -8,4 +8,4 @@ No backend or Splunk connection. Case data stays in browser storage and is not s
 
 SPL templates require local validation. The dated CVE snapshot does not update itself; verify current advisories and asset applicability. Hypothetical scenarios are not evidence.
 
-Source snapshot: 2026-10-15, Navigator 5.3.
+Source snapshot: 2026-10-15, Navigator 5.4.
